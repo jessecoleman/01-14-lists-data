@@ -3,6 +3,8 @@ package movies;
 /**
  * A quick demonstration of Threading in Java
  * @author Joel Ross
+ *
+ * This class has several nested classes that run asynchronously in parallel
  */
 public class ThreadDemo {
 
